@@ -1,4 +1,3 @@
-target/
 !target/hello-world-0.01-SNAPSHOT.jar
 !.mvn/wrapper/maven-wrapper.jar
 
